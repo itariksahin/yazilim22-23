@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\bin\Debug\NOTHESAP.exe.config
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\bin\Debug\NOTHESAP.exe
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\bin\Debug\NOTHESAP.pdb
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.Form1.resources
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.Properties.Resources.resources
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.exe
+C:\Users\Teacher\source\repos\NOTHESAP\NOTHESAP\obj\Debug\NOTHESAP.pdb
