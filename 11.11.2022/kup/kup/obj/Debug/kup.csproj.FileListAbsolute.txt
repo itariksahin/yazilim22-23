@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\kup\kup\bin\Debug\kup.exe.config
+C:\Users\Teacher\source\repos\kup\kup\bin\Debug\kup.exe
+C:\Users\Teacher\source\repos\kup\kup\bin\Debug\kup.pdb
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.Form1.resources
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.Properties.Resources.resources
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.exe
+C:\Users\Teacher\source\repos\kup\kup\obj\Debug\kup.pdb

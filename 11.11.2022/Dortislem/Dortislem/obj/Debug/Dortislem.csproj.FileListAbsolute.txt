@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\bin\Debug\Dortislem.exe.config
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\bin\Debug\Dortislem.exe
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\bin\Debug\Dortislem.pdb
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.Form1.resources
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.Properties.Resources.resources
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.exe
+C:\Users\Teacher\source\repos\Dortislem\Dortislem\obj\Debug\Dortislem.pdb

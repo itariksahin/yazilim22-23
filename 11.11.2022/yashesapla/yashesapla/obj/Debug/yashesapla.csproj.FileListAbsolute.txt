@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.Form1.resources
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.Properties.Resources.resources
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\bin\Debug\yashesapla.exe.config
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\bin\Debug\yashesapla.exe
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\bin\Debug\yashesapla.pdb
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.exe
+C:\Users\Teacher\source\repos\yashesapla\yashesapla\obj\Debug\yashesapla.pdb
