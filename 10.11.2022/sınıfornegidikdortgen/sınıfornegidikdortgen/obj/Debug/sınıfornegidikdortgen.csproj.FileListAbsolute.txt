@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\bin\Debug\sınıfornegidikdortgen.exe.config
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\bin\Debug\sınıfornegidikdortgen.exe
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\bin\Debug\sınıfornegidikdortgen.pdb
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.Form1.resources
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.Properties.Resources.resources
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.exe
+C:\Users\Teacher\source\repos\sınıfornegidikdortgen\sınıfornegidikdortgen\obj\Debug\sınıfornegidikdortgen.pdb

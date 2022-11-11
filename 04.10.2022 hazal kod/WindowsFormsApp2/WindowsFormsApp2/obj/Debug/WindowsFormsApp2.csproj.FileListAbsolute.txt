@@ -1,0 +1,10 @@
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Teacher\Documents\GitHub\yazilim22-23\04.10.2022 hazal kod\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
