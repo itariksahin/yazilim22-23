@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\bin\Debug\buyukolanıbul.exe.config
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\bin\Debug\buyukolanıbul.exe
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\bin\Debug\buyukolanıbul.pdb
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.Form1.resources
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.Properties.Resources.resources
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.exe
+C:\Users\Teacher\source\repos\buyukolanıbul\buyukolanıbul\obj\Debug\buyukolanıbul.pdb

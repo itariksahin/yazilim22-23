@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\bin\Debug\ucgencevre.exe.config
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\bin\Debug\ucgencevre.exe
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\bin\Debug\ucgencevre.pdb
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.Form1.resources
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.Properties.Resources.resources
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.exe
+C:\Users\Teacher\source\repos\ucgencevre\ucgencevre\obj\Debug\ucgencevre.pdb
