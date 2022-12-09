@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\bin\Debug\Golgeleme.exe.config
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\bin\Debug\Golgeleme.exe
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\bin\Debug\Golgeleme.pdb
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.Form1.resources
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.Properties.Resources.resources
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.exe
+C:\Users\Teacher\source\repos\Golgeleme\Golgeleme\obj\Debug\Golgeleme.pdb

@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\bin\Debug\soyutsinifornegi.exe.config
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\bin\Debug\soyutsinifornegi.exe
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\bin\Debug\soyutsinifornegi.pdb
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.Form1.resources
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.Properties.Resources.resources
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.exe
+C:\Users\Teacher\source\repos\soyutsinifornegi\soyutsinifornegi\obj\Debug\soyutsinifornegi.pdb
