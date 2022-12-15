@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.Form1.resources
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.Properties.Resources.resources
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\bin\Debug\statik_sinif.exe.config
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\bin\Debug\statik_sinif.exe
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\bin\Debug\statik_sinif.pdb
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.exe
+C:\Users\Teacher\source\repos\statik_sinif\statik_sinif\obj\Debug\statik_sinif.pdb
