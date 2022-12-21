@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\bin\Debug\Tek_Boyutlu_Dizi.exe.config
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\bin\Debug\Tek_Boyutlu_Dizi.exe
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\bin\Debug\Tek_Boyutlu_Dizi.pdb
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.Form1.resources
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.Properties.Resources.resources
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.exe
+C:\Users\Teacher\source\repos\Tek_Boyutlu_Dizi\Tek_Boyutlu_Dizi\obj\Debug\Tek_Boyutlu_Dizi.pdb
