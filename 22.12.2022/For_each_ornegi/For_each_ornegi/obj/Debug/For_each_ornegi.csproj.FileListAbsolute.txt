@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.Form1.resources
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.Properties.Resources.resources
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\bin\Debug\For_each_ornegi.exe.config
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\bin\Debug\For_each_ornegi.exe
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\bin\Debug\For_each_ornegi.pdb
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.exe
+C:\Users\Teacher\source\repos\For_each_ornegi\For_each_ornegi\obj\Debug\For_each_ornegi.pdb
