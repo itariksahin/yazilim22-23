@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\bin\Debug\dictionary_ornek.exe.config
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\bin\Debug\dictionary_ornek.exe
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\bin\Debug\dictionary_ornek.pdb
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.exe
+C:\Users\BT1Ogretmen\source\repos\dictionary_ornek\dictionary_ornek\obj\Debug\dictionary_ornek.pdb
