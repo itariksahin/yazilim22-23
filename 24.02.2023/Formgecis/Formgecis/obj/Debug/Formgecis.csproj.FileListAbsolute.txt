@@ -1,0 +1,14 @@
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\bin\Debug\Formgecis.exe.config
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\bin\Debug\Formgecis.exe
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\bin\Debug\Formgecis.pdb
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.exe
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.pdb
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.Form2.resources
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.Form3.resources
+C:\Users\BT1Ogretmen\source\repos\Formgecis\Formgecis\obj\Debug\Formgecis.Form4.resources

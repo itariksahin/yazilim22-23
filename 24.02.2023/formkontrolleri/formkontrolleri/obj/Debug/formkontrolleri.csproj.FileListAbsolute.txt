@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\bin\Debug\formkontrolleri.exe.config
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\bin\Debug\formkontrolleri.exe
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\bin\Debug\formkontrolleri.pdb
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.exe
+C:\Users\BT1Ogretmen\source\repos\formkontrolleri\formkontrolleri\obj\Debug\formkontrolleri.pdb

@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\bin\Debug\kayanbutton.exe.config
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\bin\Debug\kayanbutton.exe
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\bin\Debug\kayanbutton.pdb
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.exe
+C:\Users\BT1Ogretmen\source\repos\kayanbutton\kayanbutton\obj\Debug\kayanbutton.pdb

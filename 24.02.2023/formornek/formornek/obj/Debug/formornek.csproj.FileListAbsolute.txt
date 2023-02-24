@@ -1,0 +1,12 @@
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.Form2.resources
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\bin\Debug\formornek.exe.config
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\bin\Debug\formornek.exe
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\bin\Debug\formornek.pdb
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.exe
+C:\Users\BT1Ogretmen\source\repos\formornek\formornek\obj\Debug\formornek.pdb
