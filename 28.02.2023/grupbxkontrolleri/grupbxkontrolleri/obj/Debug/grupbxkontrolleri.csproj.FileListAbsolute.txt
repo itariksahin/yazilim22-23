@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\bin\Debug\grupbxkontrolleri.exe.config
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\bin\Debug\grupbxkontrolleri.exe
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\bin\Debug\grupbxkontrolleri.pdb
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.exe
+C:\Users\BT1Ogretmen\source\repos\grupbxkontrolleri\grupbxkontrolleri\obj\Debug\grupbxkontrolleri.pdb

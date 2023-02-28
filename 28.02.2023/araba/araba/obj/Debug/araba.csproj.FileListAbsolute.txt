@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\araba\araba\bin\Debug\araba.exe.config
+C:\Users\BT1Ogretmen\source\repos\araba\araba\bin\Debug\araba.exe
+C:\Users\BT1Ogretmen\source\repos\araba\araba\bin\Debug\araba.pdb
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.exe
+C:\Users\BT1Ogretmen\source\repos\araba\araba\obj\Debug\araba.pdb
