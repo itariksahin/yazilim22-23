@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\bin\Debug\tabkontrol.exe.config
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\bin\Debug\tabkontrol.exe
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\bin\Debug\tabkontrol.pdb
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.exe
+C:\Users\BT1Ogretmen\source\repos\tabkontrol\tabkontrol\obj\Debug\tabkontrol.pdb
