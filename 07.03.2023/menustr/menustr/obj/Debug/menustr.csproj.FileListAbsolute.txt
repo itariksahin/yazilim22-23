@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\bin\Debug\menustr.exe.config
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\bin\Debug\menustr.exe
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\bin\Debug\menustr.pdb
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.exe
+C:\Users\BT1Ogretmen\source\repos\menustr\menustr\obj\Debug\menustr.pdb

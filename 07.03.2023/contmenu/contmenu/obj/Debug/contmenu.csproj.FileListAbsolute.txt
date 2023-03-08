@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\bin\Debug\contmenu.exe.config
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\bin\Debug\contmenu.exe
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\bin\Debug\contmenu.pdb
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.exe
+C:\Users\BT1Ogretmen\source\repos\contmenu\contmenu\obj\Debug\contmenu.pdb

@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\bin\Debug\mesajkutulari.exe.config
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\bin\Debug\mesajkutulari.exe
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\bin\Debug\mesajkutulari.pdb
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.exe
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.pdb
+C:\Users\BT1Ogretmen\source\repos\mesajkutulari\mesajkutulari\obj\Debug\mesajkutulari.csproj.AssemblyReference.cache
