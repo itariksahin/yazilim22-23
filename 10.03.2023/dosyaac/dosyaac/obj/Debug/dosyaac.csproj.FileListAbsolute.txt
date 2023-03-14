@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\bin\Debug\dosyaac.exe.config
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\bin\Debug\dosyaac.exe
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\bin\Debug\dosyaac.pdb
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.exe
+C:\Users\BT1Ogretmen\source\repos\dosyaac\dosyaac\obj\Debug\dosyaac.pdb

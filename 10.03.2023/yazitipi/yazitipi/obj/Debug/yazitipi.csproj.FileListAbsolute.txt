@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\bin\Debug\yazitipi.exe.config
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\bin\Debug\yazitipi.exe
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\bin\Debug\yazitipi.pdb
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.exe
+C:\Users\BT1Ogretmen\source\repos\yazitipi\yazitipi\obj\Debug\yazitipi.pdb
