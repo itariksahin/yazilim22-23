@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\bin\Debug\basitveridogrulama.exe.config
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\bin\Debug\basitveridogrulama.exe
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\bin\Debug\basitveridogrulama.pdb
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.exe
+C:\Users\BT1Ogretmen\source\repos\basitveridogrulama\basitveridogrulama\obj\Debug\basitveridogrulama.pdb

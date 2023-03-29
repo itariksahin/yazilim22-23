@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\bin\Debug\ipucu.exe.config
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\bin\Debug\ipucu.exe
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\bin\Debug\ipucu.pdb
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.exe
+C:\Users\BT1Ogretmen\source\repos\ipucu\ipucu\obj\Debug\ipucu.pdb
