@@ -1,0 +1,11 @@
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\bin\Debug\veribagı.exe.config
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\bin\Debug\veribagı.exe
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\bin\Debug\veribagı.pdb
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.csproj.AssemblyReference.cache
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.Form1.resources
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.Properties.Resources.resources
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.csproj.GenerateResource.cache
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.csproj.CoreCompileInputs.cache
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.exe
+C:\Users\BT1Ogretmen\source\repos\veribagı\veribagı\obj\Debug\veribagı.pdb
